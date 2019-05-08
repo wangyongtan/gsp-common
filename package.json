@@ -1,0 +1,21 @@
+{
+  "name": "@gsp-wyt/gsp-common",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^5.2.0",
+    "@angular/core": "^5.2.0",
+    "rxjs": "^5.5.6"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.5.3",
+    "zone.js": "^0.9.1"
+  }
+}
